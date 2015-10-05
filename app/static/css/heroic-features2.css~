@@ -1,0 +1,47 @@
+/*!
+ * Start Bootstrap - Heroic Features HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    /*background: url('http://www.purplepawn.com/wp-content/uploads/2014/01/6-Player-Small-World-map-board.jpg');*/
+    background: url('../bggrecommendBackgroundtest2.jpg') no-repeat;
+    /*!background: url('https://upload.wikimedia.org/wikipedia/commons/5/5c/King_of_Tokyo.jpg'); */
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    color: black;
+    /*text-align: center;*/
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    vertical-align: middle;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.hero-spacer {
+    margin-top: 50px;
+}
+
+.hero2-spacer {
+    margin-top: 20px;
+}
+
+.hero-feature {
+    margin-bottom: 30px;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+.jumbotron{
+    background:rgba(225,229,251,0.8);
+    color:black;
+}
+
+.thumbnail{
+    background:rgba(225,229,251,0.8);
+}
